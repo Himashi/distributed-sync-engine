@@ -1,6 +1,6 @@
 # Distributed Sync Engine
 
-**Core event-driven routing framework and asynchronous state synchronization engine** engineered for high-concurrency distributed systems.
+**Core event-driven routing framework and asynchronous state synchronization engine** engineered for high-concurrency distributed systems
 
 ## Architectural Overview
 * **Async Event Broker:** Non-blocking publish-subscribe routing engine built on Python's `asyncio` loop.
